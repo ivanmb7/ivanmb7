@@ -1,4 +1,4 @@
-# # Ivan Martinez Bastida – Desarrollador Junior / Estudiante DAW
+ # Ivan Martinez Bastida – Desarrollador Junior / Estudiante DAW
 
 ## 👤 Sobre mí
 ¡Hola! Bienvenido a mi perfil de GitHub. Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con un fuerte enfoque en el desarrollo Backend. Actualmente estoy centrado en dominar la programación orientada a objetos con **Java** y el diseño y gestión de **Bases de Datos relacionales y no relacionales**.
