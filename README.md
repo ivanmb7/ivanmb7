@@ -1,4 +1,4 @@
- # Ivan Martinez Bastida – Desarrollador Junior / Estudiante DAW
+# Ivan Martinez Bastida – Desarrollador Junior / Estudiante DAW
 
 ## 👤 Sobre mí
 ¡Hola! Bienvenido a mi perfil de GitHub. Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con un fuerte enfoque en el desarrollo Backend. Actualmente estoy centrado en dominar la programación orientada a objetos con **Java** y el diseño y gestión de **Bases de Datos relacionales y no relacionales**.
@@ -50,6 +50,19 @@ Durante mi formación en DAW, he desarrollado proyectos prácticos para aplicar 
 
 ---
 
+🎯 Objetivo Profesional
+Mi meta actual es finalizar con éxito mis estudios de DAW y realizar mis prácticas en empresa (FCT). De cara al futuro, mi objetivo profesional es incorporarme al mercado laboral como Desarrollador Web Full-Stack o Backend, en un equipo de desarrollo donde pueda seguir perfeccionando mi nivel de Java, optimizando bases de datos y aprovechando mis conocimientos en entornos Linux y virtualización para desplegar aplicaciones eficientes y seguras.
+
+
+---
+📨 Contacto
+¡Estoy abierto a colaborar en proyectos, resolver dudas o simplemente conectar con otros desarrolladores del sector! Puedes contactar conmigo a través de:
+
+📧 Correo electrónico: im191841@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/ivan-martinez-538006372/
+
+---
 ## 💻 Código de Ejemplo (Java & SQL)
 
 A continuación, muestro un método en Java que simula la inserción de un nuevo usuario en la base de datos utilizando `PreparedStatement` para evitar la inyección SQL:
