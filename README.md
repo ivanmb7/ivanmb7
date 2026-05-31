@@ -51,12 +51,12 @@ Durante mi formación en DAW, he desarrollado proyectos prácticos para aplicar 
 ---
 
 ## 🎯 Objetivo Profesional
-*Mi meta actual es finalizar con éxito mis estudios de DAW y realizar mis prácticas en empresa (FCT). De cara al futuro, mi objetivo profesional es incorporarme al mercado laboral como Desarrollador Web Full-Stack o Backend, en un equipo de desarrollo donde pueda seguir perfeccionando mi nivel de Java, optimizando bases de datos y aprovechando mis conocimientos en entornos Linux y virtualización para desplegar aplicaciones eficientes y seguras.
+**Mi meta actual es finalizar con éxito mis estudios de DAW y realizar mis prácticas en empresa (FCT). De cara al futuro, mi objetivo profesional es incorporarme al mercado laboral como Desarrollador Web Full-Stack o Backend, en un equipo de desarrollo donde pueda seguir perfeccionando mi nivel de Java, optimizando bases de datos y aprovechando mis conocimientos en entornos Linux y virtualización para desplegar aplicaciones eficientes y seguras.
 
 
 ---
 ## 📨 Contacto
-¡Estoy abierto a colaborar en proyectos, resolver dudas o simplemente conectar con otros desarrolladores del sector! Puedes contactar conmigo a través de:
+**¡Estoy abierto a colaborar en proyectos, resolver dudas o simplemente conectar con otros desarrolladores del sector! Puedes contactar conmigo a través de:
 
 *📧 Correo electrónico: im191841@gmail.com
 
